@@ -1,6 +1,7 @@
 **🛒 Superstore Sales Dashboard – Power BI Project**
 
 **📊 Overview**
+
 The Superstore Sales Dashboard is an interactive Power BI project that visualizes key sales insights, profits, and customer behavior. It helps businesses track performance, identify trends, and make data-driven decisions.
 
 **🎯 Objective**
@@ -36,5 +37,6 @@ The Superstore Sales Dashboard is an interactive Power BI project that visualize
 * Compare performance across all regions
   
 **📸 Dashboard Preview**
+
 Below is the screenshot of my Power BI dashboard:
-(https://github.com/ASTHA29DUBEY/Superstore-Sales-Dashboard/blob/main/DASHBOARD.png)
+
