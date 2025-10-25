@@ -37,4 +37,4 @@ The Superstore Sales Dashboard is an interactive Power BI project that visualize
   
 **📸 Dashboard Preview**
 Below is the screenshot of my Power BI dashboard:
-https://github.com/ASTHA29DUBEY/Superstore-Sales-Dashboard/blob/main/Superstore%20dashboard%20project.pbit
+(https://github.com/ASTHA29DUBEY/Superstore-Sales-Dashboard/blob/main/DASHBOARD.png)
